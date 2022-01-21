@@ -1,6 +1,8 @@
 
 # TAPRI
 
+![](tapri-logo.jpeg)
+
 If anyone is new in the city  he or she will not be able to find the local stalls, tapris and small grocery store from the get go and many people are not able to afford the pricery market in their early twenties or teenage years and it takes time to find the local goods shops and roadside stalls in a new city .So where is the solution? Its in our project called TAPRI. It is a small project where we will locate the local shops ,roadside stalls and the tapris in a given area so that the user can find its suitable location quickly and in the most efficient way.
 
 ## 🛠 Skills
@@ -32,11 +34,16 @@ Run:
 - `npm run start`
 
 
+## Work done till now:
+
+- Brief introduction about the project and the technologies used and small reference about how the project will work locally and  how to fetch data from api and make your own API for the project. Hosting will be done later on the project.
+- Locator completed.
+- Backend completed.
+
+
 ## TEAM
 
 - [@Subrat Sahai](https://github.com/SubratSahai)
 - [@Rajdeep Roy](https://github.com/RajdeepOfGithub)
 - [@Shashank Jaiswal](https://github.com/ShashankJais128)
-- [@Seemant Singh](https://github.com/Seemant-Singh)
-- [@Swastik Mridha](https://github.com/SwastikMridha)
 - [@Akshay Kumar Singh](https://github.com/akshay142002)
