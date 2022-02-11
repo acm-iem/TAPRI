@@ -9,6 +9,7 @@ const useStyles = makeStyles({
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
+    backgroundColor: '#b9b8b8b7',
   },
   card: {
     padding: '1rem',
