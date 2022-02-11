@@ -60,7 +60,6 @@ const AddUser = () => {
 
   return (
     <div className={classes.root}>
-      {' '}
       <FormGroup className={classes.container}>
         <Typography className={classes.heading} align="center" variant="h3">
           Add User
