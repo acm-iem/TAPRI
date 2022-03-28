@@ -39,6 +39,8 @@ Run:
 - Brief introduction about the project and the technologies used and small reference about how the project will work locally and  how to fetch data from api and make your own API for the project. Hosting will be done later on the project.
 - Locator completed.
 - Backend completed.
+- Frontend Completed.
+- # The project is completed.
 
 
 ## TEAM
