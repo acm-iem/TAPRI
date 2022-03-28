@@ -40,7 +40,7 @@ Run:
 - Locator completed.
 - Backend completed.
 - Frontend Completed.
-- # The project is completed.
+- ### The project is completed.
 
 
 ## TEAM
