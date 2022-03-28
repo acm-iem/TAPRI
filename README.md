@@ -1,6 +1,8 @@
 
 # TAPRI
 
+# THIS PROJECT IS COMPLETED !!!
+
 ![](tapri-logo.jpeg)
 
 If anyone is new in the city  he or she will not be able to find the local stalls, tapris and small grocery store from the get go and many people are not able to afford the pricery market in their early twenties or teenage years and it takes time to find the local goods shops and roadside stalls in a new city .So where is the solution? Its in our project called TAPRI. It is a small project where we will locate the local shops ,roadside stalls and the tapris in a given area so that the user can find its suitable location quickly and in the most efficient way.
